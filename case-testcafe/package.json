@@ -1,0 +1,13 @@
+{
+  "name": "case-testcafe",
+  "version": "0.1.0",
+  "description": "",
+  "scripts": {
+    "test": "testcafe chrome tests/"
+  },
+  "author": "ushiboy",
+  "license": "MIT",
+  "devDependencies": {
+    "testcafe": "^1.14.2"
+  }
+}
